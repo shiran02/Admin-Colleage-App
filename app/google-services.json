@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341763876933",
+    "project_id": "m-collage-app",
+    "storage_bucket": "m-collage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341763876933:android:f61c9fdd5c6b233fbedb2c",
+        "android_client_info": {
+          "package_name": "com.cadenza.admincolleageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341763876933-9k3jmr6uaeopjhscplkoto44if1468gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFgs1_5hi7A4P38HR-MDEwhvMVMHCRFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341763876933-9k3jmr6uaeopjhscplkoto44if1468gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
